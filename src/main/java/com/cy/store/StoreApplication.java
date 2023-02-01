@@ -11,10 +11,11 @@ public class StoreApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(StoreApplication.class, args);
-        //第二版本
-        //branch test
+        // 第二版本
+        // branch test
         // 第四版
         // 第三版
+        // 绑定githup后
     }
 
 }
